@@ -1,4 +1,4 @@
-# Unity_Study_2D_Procedural_Dungoen
+# Unity_Study_2D_Procedural_Dungeon
 
 던전 크롤링 게임을 만들기 위해 던전의 절차적 생성이 필요하여 학습함.
 
